@@ -1,6 +1,7 @@
 #It's a test file.
 #include <stdio.h>
 
-void main() {
+int main() {
 	printf("Bumu.c's test.");
+	return 0;
 }
