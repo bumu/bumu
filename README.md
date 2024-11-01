@@ -31,4 +31,5 @@ Welcome to my github pages, And thanks for you follow me!! :)
 
 
 ### Contact
-[![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/FSWXq4DmEj)
+[![Chat Server](https://img.shields.io/discord/1068358113180262501?label=Discord&logo=discord)](https://discord.com/invite/Mp4xttEqnF)
+
