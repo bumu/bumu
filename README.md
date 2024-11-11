@@ -33,3 +33,6 @@ Welcome to my github pages, And thanks for you follow me!! :)
 ### Contact
 [![Chat Server](https://img.shields.io/discord/1068358113180262501?label=Discord&logo=discord)](https://discord.com/invite/Mp4xttEqnF)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bumu&label=Profile%20views&color=0e75b6&style=flat" alt="vaalacat" /> </p>
+
+
