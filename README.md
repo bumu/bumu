@@ -2,7 +2,7 @@
 
 Name: bumu
 
-Email: tech@airdb.cn
+Email: bumu@airdb.cn
 
 ```text
 Welcome to my github pages, And thanks for you follow me!! :)
